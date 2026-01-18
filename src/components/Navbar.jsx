@@ -50,7 +50,7 @@ const Navbar = () => {
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
           className="font-mono text-xl font-bold text-neon-primary tracking-tighter hover:text-neon-secondary transition-colors"
         >
-          &lt;LC /&gt;
+          &lt;MT /&gt;
         </Link>
 
         <ul className="hidden md:flex items-center gap-8 font-mono text-sm">

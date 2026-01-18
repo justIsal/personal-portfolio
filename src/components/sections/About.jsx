@@ -49,7 +49,7 @@ const About = () => {
             <div className="mb-2 text-neon-secondary">class Developer {`{`}</div>
             <div className="pl-4">
               <span className="text-neon-primary">constructor</span>() {`{`}
-              <div className="pl-4">this.name = "Lasi";</div>
+              <div className="pl-4">this.name = "Tsalman";</div>
               <div className="pl-4">this.role = "Fullstack";</div>
               <div className="pl-4">this.status = "Building";</div>
               <div>{`}`}</div>
