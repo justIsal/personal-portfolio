@@ -41,12 +41,12 @@ const Hero = () => {
       </h1>
 
       <h2 className="text-4xl md:text-6xl font-bold text-text-dim mb-6 tracking-tight">
-        I build digital solutions.
+        FUll Stack Web.
       </h2>
 
       <p className="max-w-xl text-text-dim text-lg leading-relaxed mb-10">
-        I'm a software engineer specializing in scalable backend systems and modern frontend
-        interfaces. Currently focused on building accessible, human-centered products as a
+        I'm a software engineer seeking to build functional web applications and modern frontend
+        interfaces. Currently focused on building accessible, human-centered products as a 
         <span className="text-neon-secondary font-mono"> Freelance Developer</span>.
       </p>
 

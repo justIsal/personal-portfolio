@@ -8,20 +8,10 @@ const Experience = () => {
       company: 'Self-Employed',
       range: '2023 - Present',
       duties: [
-        'Developed comprehensive web applications for diverse clients using React and Go.',
-        'Collaborated with stakeholders to define project requirements and deliverables.',
-        'Implemented responsive designs ensuring 100% compatibility across devices.',
-      ],
-    },
-    {
-      id: 1,
-      title: 'Frontend Intern',
-      company: 'Tech Startup',
-      range: 'Jan 2022 - Dec 2022',
-      duties: [
-        'Built and maintained internal dashboard components using Vue.js.',
-        'Participated in code reviews and agile methodology practices.',
-        'Optimized legacy code for better performance and maintainability.',
+        'Converted UI/UX designs from Figma into accurate code using React.js and Tailwind CSS.',
+        'Ensured all websites are fully responsive, providing a seamless experience on both mobile and desktop.',
+        'Optimized web performance by managing assets and images for faster loading times.',
+        'ODeployed applications to live environments using Vercel/Netlify and maintained code using Git.',
       ],
     },
   ];
